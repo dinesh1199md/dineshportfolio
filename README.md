@@ -1,7 +1,4 @@
-## Responsive Portfolio Website 
-- Visit :
-```
-[https://dinesh1199md.github.io/dineshportfolio/]
-```
+# Responsive Portfolio Website 
+- Visit @ [Dinesh M](https://dinesh1199md.github.io/dineshportfolio/)
   
 
